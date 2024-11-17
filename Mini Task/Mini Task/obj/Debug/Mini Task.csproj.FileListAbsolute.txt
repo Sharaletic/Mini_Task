@@ -1,0 +1,7 @@
+C:\Users\Вадим\Desktop\остальное\ПИС\MiniTask\Mini Task\Mini Task\bin\Debug\Mini Task.exe.config
+C:\Users\Вадим\Desktop\остальное\ПИС\MiniTask\Mini Task\Mini Task\bin\Debug\Mini Task.exe
+C:\Users\Вадим\Desktop\остальное\ПИС\MiniTask\Mini Task\Mini Task\bin\Debug\Mini Task.pdb
+C:\Users\Вадим\Desktop\остальное\ПИС\MiniTask\Mini Task\Mini Task\obj\Debug\Mini Task.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\остальное\ПИС\MiniTask\Mini Task\Mini Task\obj\Debug\Mini Task.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\остальное\ПИС\MiniTask\Mini Task\Mini Task\obj\Debug\Mini Task.exe
+C:\Users\Вадим\Desktop\остальное\ПИС\MiniTask\Mini Task\Mini Task\obj\Debug\Mini Task.pdb
