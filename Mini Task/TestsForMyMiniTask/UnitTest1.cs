@@ -11,13 +11,6 @@ namespace TestsForMyMiniTask
             Assert.True(result);
         }
 
-        [Fact]
-        public void Checking_read_file()
-        {
-            string[] expected = { "20 3", "Привет!", "Напиши мне.", "Пока =)" };
-            string[] result = MyTask.ReadFile("input.txt");
-            Assert.Equal(expected, result);
-        }
 
         [Fact]
         public void Adding_spaces_at_beginning_and_at_end_of_string()

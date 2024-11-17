@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{2265A31C-BDE2-4461-A0AE-8E70120BEAE2}|TestsForMyMiniTask\\TestsForMyMiniTask.csproj|solutionrelative:testsformyminitask\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BED55FF6-1A24-494C-B513-B6C325A9ACAC}|Mini Task\\Mini Task.csproj|c:\\users\\\u0432\u0430\u0434\u0438\u043C\\desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u043F\u0438\u0441\\minitask\\mini task\\mini task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BED55FF6-1A24-494C-B513-B6C325A9ACAC}|Mini Task\\Mini Task.csproj|C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u041F\u0418\u0421\\MiniTask\\Mini Task\\mini task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BED55FF6-1A24-494C-B513-B6C325A9ACAC}|Mini Task\\Mini Task.csproj|solutionrelative:mini task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "TestsForMyMiniTask\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u041F\u0418\u0421\\MiniTask\\Mini Task\\TestsForMyMiniTask\\UnitTest1.cs",
               "RelativeToolTip": "TestsForMyMiniTask\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T12:23:05.621Z",
               "EditorCaption": ""
@@ -41,7 +41,7 @@
               "RelativeDocumentMoniker": "Mini Task\\Program.cs",
               "ToolTip": "C:\\Users\\\u0412\u0430\u0434\u0438\u043C\\Desktop\\\u043E\u0441\u0442\u0430\u043B\u044C\u043D\u043E\u0435\\\u041F\u0418\u0421\\MiniTask\\Mini Task\\Mini Task\\Program.cs",
               "RelativeToolTip": "Mini Task\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T12:21:59.571Z",
               "EditorCaption": ""

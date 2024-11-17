@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestsForMyMiniTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71f95c5db61d2c2d9929552d45cfd11ddb35de3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestsForMyMiniTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestsForMyMiniTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

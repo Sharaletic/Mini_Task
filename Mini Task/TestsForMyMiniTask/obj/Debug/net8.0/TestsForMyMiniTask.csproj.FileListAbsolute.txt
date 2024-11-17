@@ -101,3 +101,4 @@ C:\Users\Вадим\Desktop\остальное\ПИС\MiniTask\Mini Task\TestsFo
 C:\Users\Вадим\Desktop\остальное\ПИС\MiniTask\Mini Task\TestsForMyMiniTask\obj\Debug\net8.0\ref\TestsForMyMiniTask.dll
 C:\Users\Вадим\Desktop\остальное\ПИС\MiniTask\Mini Task\TestsForMyMiniTask\bin\Debug\net8.0\testhost.x86.exe
 C:\Users\Вадим\Desktop\остальное\ПИС\MiniTask\Mini Task\TestsForMyMiniTask\bin\Debug\net8.0\testhost.x86.dll
+C:\Users\Вадим\Desktop\остальное\ПИС\MiniTask\Mini Task\TestsForMyMiniTask\obj\Debug\net8.0\TestsForMyMiniTask.sourcelink.json

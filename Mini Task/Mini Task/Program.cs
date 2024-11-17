@@ -8,18 +8,12 @@ namespace Mini_Task
         {
             throw new Exception();
         }
-        public static string[] ReadFile(string path)
-        {
-            throw new Exception();
-        }
+
         public static string RearrangingStringsInCenterOfSheet(string[] txt)
         {
             throw new Exception();
         }
-        public static void WritingToFile(string result, string path)
-        {
-            throw new Exception();
-        }
+
     }
     public class Program
     {
